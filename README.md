@@ -1,2 +1,2 @@
 # php_travels
-Login test with valide credentials
+Login test with valid credentials
